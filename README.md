@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hello, I'm a website developer currently attending SUNY Oswego. I have been actively involved in the computer science field for the past two years, and I'm eager to further enhance my skills. I invite you to explore my projects and feel free to reach out to me if you're interested in collaborating. Thank you, and I hope you have a wonderful time browsing through my work!!!
-
+Hi there!!! Welcome to the world of my GitHub. You will see a lot of stuff happening but try not to get lost. I love to work on different things, and in case if you have any questions, hit me up on my website. I am more than welcome to share.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soney7/) 
