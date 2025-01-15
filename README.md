@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi there!!! Welcome to the world of my GitHub. You will see a lot of stuff happening but try not to get lost. I love to work on different things, and in case if you have any questions, hit me up on my website. I am more than welcome to share.
+Hi there!!! Welcome to the world of my GitHub. You will see a lot of stuff happening but try not to get lost. I love to work on different things, and in case if you have any questions, hit me up through Linkedin. I would love to share more!!
+
+Also, also ... Is AI gonna take my job? Idk. Guess we will find out.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soney7/) 
