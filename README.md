@@ -5,6 +5,7 @@ Also, also ... Is AI gonna take my job? Idk. Guess we will find out.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soney7/) 
+
 ## 💻 Tech Stack:
 
 ### 🚀 Languages
