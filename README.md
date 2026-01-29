@@ -3,6 +3,7 @@
 **Site Reliability Engineer** @ FindingFive | **Software Engineer** @ Oswegodining | **CS Senior** @ SUNY Oswego | **Open Source Contributor**
 
 I build reliable systems and break things (on purpose) so users don't have to. Currently obsessed with deployment automation, observability, and making distributed systems less painful.
+I enjoy working on DevOps tasks, helping to provide a better development experience (including me). 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/soney7)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://sonephyo.com)
