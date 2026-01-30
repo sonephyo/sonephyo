@@ -5,6 +5,8 @@
 I build reliable systems and break things (on purpose) so users don't have to. Currently obsessed with deployment automation, observability, and making distributed systems less painful.
 I enjoy working on DevOps tasks, helping to provide a better development experience (including me). 
 
+I am actively building/maintaining [OswegoDining.com](https://oswegodining.com) to help students have a better experience searching for dining menus. With a $20k investment from university, the product is scaling towards other universities. 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/soney7)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://sonephyo.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sonephyo7777777@gmail.com)
