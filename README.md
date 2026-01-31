@@ -62,7 +62,9 @@ I am actively building/maintaining [OswegoDining.com](https://oswegodining.com) 
 ### Observability
 ![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=new-relic&logoColor=white)
 ![Umami](https://img.shields.io/badge/Umami-000000?style=for-the-badge&logo=umami&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-2C3239?style=for-the-badge&logo=grafana&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
 
 ### ML & Automation
