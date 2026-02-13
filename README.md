@@ -1,6 +1,6 @@
 # Hey, I'm Soney 👋
 
-**Site Reliability Engineer** @ FindingFive | **Software Engineer** @ Oswegodining | **CS Senior** @ SUNY Oswego | **Open Source Contributor**
+**Site Reliability Engineer** @ FindingFive | **Infra Engineer** @ Oswegodining | **Open Source Contributor**
 
 I build reliable systems and break things (on purpose) so users don't have to. Currently obsessed with deployment automation, observability, and making distributed systems less painful.
 I enjoy working on DevOps tasks, helping to provide a better development experience (including me). 
