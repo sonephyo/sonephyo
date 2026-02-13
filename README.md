@@ -5,9 +5,7 @@
 I build reliable systems and break things (on purpose) so users don't have to. Currently obsessed with deployment automation, observability, and making distributed systems less painful.
 I enjoy working on DevOps tasks, helping to provide a better development experience (including me). 
 
-I am actively building/maintaining [OswegoDining.com](https://oswegodining.com) to help students have a better experience searching for dining menus. With a $20k investment from university, the product is scaling towards other universities. 
-
-I am working on an observability-based AI inference routing Research Paper (ETA: May 2026).
+I am actively building/maintaining [OswegoDining.com](https://oswegodining.com) (now [Mydininghall.com](https://mydininghall.com)) to help students have a better experience searching for dining menus. With a $20k investment from university, the product is scaling towards other universities. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/soney7)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://sonephyo.com)
@@ -15,7 +13,10 @@ I am working on an observability-based AI inference routing Research Paper (ETA:
 
 ---
 
-### Published Research
+## Research
+
+**Observability-Aware Routing for AI Inference**  
+*Research Project, SUNY Oswego — 2025–Present*
 
 **BiteZone: A Microservices-Based Campus Dining Platform**  
 *Quest Undergraduate Research Conference, SUNY Open Access Repository (SOAR) — 2025*
